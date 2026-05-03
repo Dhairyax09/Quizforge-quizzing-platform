@@ -1,0 +1,61 @@
+In C++, which symbol is used to terminate a statement?
+:
+.
+;
+,
+C
+What is the capital of India?
+Mumbai
+Kolkata
+New Delhi
+Chennai
+C
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Venus
+B
+Who wrote the national anthem of India?
+Mahatma Gandhi
+Rabindranath Tagore
+Jawaharlal Nehru
+Subhas Chandra Bose
+B
+How many continents are there in the world?
+5
+6
+7
+8
+C
+What is the largest ocean on Earth?
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Arctic Ocean
+C
+What is the chemical symbol for water?
+O2
+H2O
+CO2
+HO
+B
+In which year did India gain independence?
+1945
+1946
+1947
+1950
+C
+Which gas do plants absorb from the atmosphere?
+Oxygen
+Nitrogen
+Carbon Dioxide
+Hydrogen
+C
+Who invented the telephone?
+Isaac Newton
+Alexander Graham Bell
+Thomas Edison
+Nikola Tesla
+B
+
